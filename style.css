@@ -1,0 +1,58 @@
+h1{
+    font-size: x-large;
+    font-style: normal;
+    text-align: center;
+}
+input{
+    background-color: aqua;
+    height:50px;
+    width: 500px;
+    border-radius: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+button{
+    background-color: blueviolet;
+    margin-top: 25px;
+    
+}
+.image_container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:20px ;
+    margin-block: 50px;
+}
+.image_container img{
+    height: 200px;
+    width:400px;
+    border-radius: 10px;
+}
+.image_container p {
+    
+    text-transform: uppercase;
+    font-size: large;
+    max-width: 300px; 
+    word-wrap: break-word; 
+    
+    
+}
+#LoadMore{
+    background-color: bisque;
+    border-radius:10px;
+    height: 50px;
+    width: 100px;
+    
+}
+.second{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    
+}
