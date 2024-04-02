@@ -56,3 +56,13 @@ button{
     align-items: center; 
     
 }
+#butt{
+
+    background-color: rgb(24, 207, 239);
+    border-radius:10px;
+    height: 50px;
+    width: 100px;
+}
+body{
+    background-color: rgb(226, 141, 228);
+}
